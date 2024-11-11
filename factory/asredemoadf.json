@@ -1,0 +1,9 @@
+{
+	"name": "asredemoadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "234ed21a-e2eb-440e-9eb5-1cff696841ba",
+		"tenantId": "706aa76b-d5ab-4682-8f67-f13534488d35"
+	}
+}
